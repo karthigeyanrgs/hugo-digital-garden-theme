@@ -1,4 +1,10 @@
 ---
 label: First post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Welcome!
+  description: Thanks for making it here!
