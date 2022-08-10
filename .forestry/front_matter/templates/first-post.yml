@@ -8,3 +8,13 @@ fields:
     required: false
   label: Welcome!
   description: Thanks for making it here!
+- name: adad
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: adad
+  description: fafawf
